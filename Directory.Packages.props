@@ -5,7 +5,7 @@
 	<!--.NET 9 packages. Most of them will work on .NET 8. If you need to, make the updates here individually.-->
 	<ItemGroup>
 		<!-- Static code analysis -->
-		<PackageVersion Include="SonarAnalyzer.CSharp" Version="10.17.0.131074" />
+		<PackageVersion Include="SonarAnalyzer.CSharp" Version="10.18.0.131500" />
 		<!-- Application -->
 		<PackageVersion Include="Scrutor" Version="7.0.0" />
 		<PackageVersion Include="FluentValidation.DependencyInjectionExtensions" Version="12.1.1" />
